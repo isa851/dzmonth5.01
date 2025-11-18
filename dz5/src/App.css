@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  * {
+    @apply m-0 p-0 box-border;
+  }
+  li {
+    @apply list-none;
+  }
+  body {
+    font-family: 'Open Sans', sans-serif;
+    @apply bg-[#1D2F30] text-[#fff];
+  }
+}
+
+.container {
+  @apply mx-auto max-w-[1110px];
+}

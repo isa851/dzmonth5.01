@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "name": "Jason",
+      "age": 25,
+      "married": true,
+      "id": "575c"
+    },
+    {
+      "name": "NURIS",
+      "age": 16,
+      "married": false,
+      "id": "f375"
+    },
+    {
+      "id": "8ec9",
+      "name": "xzvxcvx",
+      "age": "35435"
+    }
+  ]
+}
